@@ -1,0 +1,23 @@
+# pycache
+__pycache__/*
+
+# virtual environment
+venv/*
+
+# dataset for testing purposes
+test_data/*
+
+# database for storing user activity and demat account info
+database/*
+
+# CLI dir, for testing of appearance and cli feature improvement
+CLI/*
+
+# zip files
+*.zip
+
+# trials
+trials/*
+test.py
+
+.idea/*

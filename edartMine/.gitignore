@@ -1,0 +1,6 @@
+# virtualenv
+venv/*
+
+library/__pycache__/*
+
+database/*
